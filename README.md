@@ -1,1 +1,1 @@
-# Coffee-Shop-Sales
+“I analyzed the sales dataset using SQL to uncover key insights such as revenue trends, top-selling items, and customer buying patterns. This project strengthened my data analysis skills through advanced queries, aggregations, and insightful reporting.”# Coffee-Shop-Sales
